@@ -1,4 +1,4 @@
-from LINE import *
+from zlib import *
 
 x1=200
 y1=0
